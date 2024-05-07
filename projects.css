@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    color: #ededed;
+    background-color: #081b29;
+}
+
+.nav-bar{
+    height: 60px;
+    width: auto;
+    background-color: #051129;
+    color: white;
+    padding: 20PX 10px;
+    z-index: 100;
+}
+.logo {
+color: aliceblue;
+text-decoration: none;
+font-size: 25px;
+font-weight: 600;
+animation: slideRinght 1s ease forwards;
+cursor: default;
+position: relative;
+}
+.web_project{
+    font-size: 40px;
+    font-weight: 800;
+    padding: 20px 30px 0;
+    line-height: 1.4;
+    text-align: center;
+}
+
+.web_project samp{
+    color:#0ef;
+}
+.My_calculator{
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 25px;
+    margin-top: 40px;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 5px;
+}
+.My_calculator samp{
+    color:#0ef;
+}
+.My_calculator1{
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.My_calculator1 a{
+    color: #0ef;
+}
+.heading1{
+    padding: 25px 40px 0;
+    font-size: 25px;
+}
+.project_img p{
+    margin-left: 45px;
+    font-size: 20px;
+}
+
+img{
+    width: 700px;
+    margin-top: 20x;
+    margin-left: 25%;
+    margin-top: 30px;
+}
+.calculator_key{
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.calculator_key h1{
+    font-weight: 600;
+}
+.project_key {
+    margin-top: 10px;
+    font-size: 15px;
+}
+.project_key samp{
+    font-size: 20px;
+    font-weight: 600;
+}
